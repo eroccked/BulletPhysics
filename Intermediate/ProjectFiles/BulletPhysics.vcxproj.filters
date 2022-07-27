@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BulletPhysics.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F7570C53-20FE-4E96-AC26-14176C20240F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BulletPhysics.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BulletPhysicsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6EA3A1B1-C354-4B44-8B50-3D2ED43D98A0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BulletPhysics">
+      <UniqueIdentifier>{D26F4512-5BBF-4BAF-83FD-014F269A8B2C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BulletPhysics\Bullet.cpp">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BulletPhysics\Bullet.h">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\BulletPhysics\BulletPhysics.Build.cs">
+      <Filter>Source\BulletPhysics</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BulletPhysics\BulletPhysics.cpp">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BulletPhysics\BulletPhysics.h">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BulletPhysics\BulletPhysicsCharacter.cpp">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BulletPhysics\BulletPhysicsCharacter.h">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BulletPhysics\BulletPhysicsGameMode.cpp">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BulletPhysics\BulletPhysicsGameMode.h">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BulletPhysics\BulletPhysicsHUD.cpp">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BulletPhysics\BulletPhysicsHUD.h">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BulletPhysics\BulletPhysicsProjectile.cpp">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BulletPhysics\BulletPhysicsProjectile.h">
+      <Filter>Source\BulletPhysics</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BulletPhysics",
+			"Path": "C:\\Users\\erocc\\Desktop\\BulletPhysics\\Source\\BulletPhysics.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BulletPhysicsEditor",
+			"Path": "C:\\Users\\erocc\\Desktop\\BulletPhysics\\Source\\BulletPhysicsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\erocc\\Desktop\\BulletPhysics\\Source\\BulletPhysics\\BulletPhysics.Build.cs",
+		"C:\\Users\\erocc\\Desktop\\BulletPhysics\\Source\\BulletPhysics.Target.cs",
+		"C:\\Users\\erocc\\Desktop\\BulletPhysics\\Source\\BulletPhysicsEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

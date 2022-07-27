@@ -1,0 +1,3 @@
+C:\Users\erocc\Desktop\BulletPhysics\Intermediate\Build\Win64\UE4Editor\Development\BulletPhysics\Definitions.BulletPhysics.h
+C:\Users\erocc\Desktop\BulletPhysics\Source\BulletPhysics\Bullet.h
+C:\Users\erocc\Desktop\BulletPhysics\Intermediate\Build\Win64\UE4Editor\Inc\BulletPhysics\Bullet.generated.h
